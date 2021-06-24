@@ -1,0 +1,84 @@
+@import "colors";
+@import "product_card";
+@import "product_price_status";
+
+.container-product-details {
+  width: 90%;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: $white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.product-description-icons {
+  margin-right: 5px;
+  color: $themeColor;
+}
+
+.product-details-services {
+  text-align: center;
+  margin: 20px auto;
+}
+.product-details-services-icons {
+  font-size: 2.5rem;
+  margin-bottom: 5px;
+}
+
+.product-btn-add-to-cart {
+  background-color: $whiteSmoke;
+  border: none;
+  color: $themeColor;
+  padding: 10px 10px;
+  font-size: 1.5rem;
+  width: 100%;
+  border-radius: 5rem;
+
+  transition: background-color 650ms;
+  &:hover {
+    color: $white;
+    background-color: $themeColor !important;
+    transition: background-color 650ms;
+  }
+}
+
+.product-btn-add-to-cart-icon {
+  margin-right: 5px;
+}
+
+.product-size-option {
+  width: 80%;
+  height: 30px;
+}
+
+#emailId {
+  margin: 0px 0;
+  background-color: #eee;
+  border: none;
+  padding: 14px 12px;
+  width: 60%;
+}
+
+input, button {
+  margin: 0px 0;
+  background-color: #eee;
+  border: none;
+  padding: 14px 12px;
+  width: 60%;
+}
+
+#check {
+	border-radius: 20px;
+	border: 1px solid whitesmoke;
+	background-color: #FF4B2B;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px 5px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+  transition: transform 80ms ease-in;
+  width: 40%;
+  margin: 11px;
+}
+// .cart-summary-amount-align-center {
+//   text-align: right;
+// }

@@ -1,0 +1,23 @@
+@import "colors";
+@import "product_card";
+@import "product_price_status";
+
+$a-tag-nav-log: "a, a:active,a:visited,a:link";
+.container-popular-products {
+  padding: 40px;
+  background: rgba(252, 250, 250, 0.5);
+
+  width: 100%;
+
+  .popular-product {
+    padding: 150 20px;
+    color: $whiteSmoke;
+
+    #ban {
+      margin: auto;
+      width: 100%;
+      height: 100%
+    }
+  }
+}
+

@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+  box-sizing: border-box;
+
+}
+
+  
+    
+
+        #logo{
+          margin-left: 50px;
+          height: 70vh;
+        }
+
+        input, button{
+            margin:5px;
+        }
+
+        #hd{
+          margin-left: 11px;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          color: #FF4B2B;
+        }
+
+        #hed{
+          font-family: 'Times New Roman', Times, serif;
+          font-size: small;
+        }
+
+        #bd{
+         
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	height: 70vh;
+  /* margin-top: 5px; */
+	/* margin: 40px 0 30px; */
+        }
+
+        #logoimg,#logoimg2{
+          margin-left: 10px;
+        }
+
+        .column {
+	background-color: #fff;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	float: left;
+    width: 45%;
+    padding: 30px;
+    margin-top: 5%;
+    margin-left: 50px;
+    height: 70vh;
+}
+
+.row {
+  display: block;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+    #uname,#pwd,#contact,#dob {
+	background-color: #eee;
+	border: none;
+	padding: 14px 12px;
+	margin: 0px 0;
+	width: 60%;
+}
+
+    #sgup,#sgin {
+	border-radius: 20px;
+	border: 1px solid whitesmoke;
+	background-color: #FF4B2B;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+  transition: transform 80ms ease-in;
+  width: 40%;
+  margin: 11px;
+}
+
+button:hover{
+  background-color: #002147;
+}
+
+button:active {
+	transform: scale(0.95);
+}
+
+button:focus {
+	outline: none;
+}
+
+button.ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+}
+
+
+#emailId {
+  margin: 0px 0;
+  background-color: #eee;
+  border: none;
+  padding: 14px 12px;
+  width: 60%;
+}
+
+input, button {
+  margin: 0px 0;
+  background-color: #eee;
+  border: none;
+  padding: 14px 12px;
+  width: 60%;
+}
+#main-login{
+  justify-content: center;
+}

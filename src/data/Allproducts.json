@@ -1,0 +1,1198 @@
+[
+  {
+    "productname": "Blue Shirt",
+    "id": "2ve68tenY9TGZMPPxppP",
+    "price": 1999,
+    "color": "Blue",
+    "category": "men",
+    "discount": 8,
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 3,
+    "product_selected_qty": 1,
+    "product_image": "Men1.jpg",
+    "brand": "US.Polo Assn",
+
+    "product_details": ["100% polyester"]
+  },
+
+  {
+    "productname": "White Sneakers",
+    "id": "Bdd75giHSDGkx8WLTv9C",
+    "price": 1499.0,
+    "discount": 12,
+    "color": "White",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 40,
+    "product_selected_qty": 1,
+    "product_image": "Men2.jpeg",
+    "brand": "United Colors of Benetton",
+
+    "product_details": [
+      "Classic fit",
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Blue Blazer",
+    "id": "1Ry57rlbWqqVGrgdngAO",
+    "price": 3999.0,
+    "discount": 50,
+    "color": "Blue",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 15,
+    "product_selected_qty": 1,
+    "product_image": "Men3.jpeg",
+    "brand": "Zara",
+
+    "product_details": [
+      "Cotton lining",
+      "Composition: 100% Polyester",
+      "Imported"
+    ]
+  },
+
+  {
+    "productname": "Blue Raymond Suit",
+    "id": "EmE5N65NxF3hjWWn5pDH",
+    "price": 9999.0,
+    "discount": 46,
+    "color": "Blue",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "Men4.jpeg",
+    "brand": "Raymond",
+
+    "product_details": [
+      "Faux shearling-lined hood",
+      "Faux fur trim at hood",
+      "Cotton lining",
+      "Soft touch wadding",
+      "Composition: 100% Polyester"
+    ]
+  },
+  {
+    "productname": "Brown T-shirt",
+    "id": "XrWlzKlPxZsJHVs1CYwB",
+    "price": 499.0,
+    "discount": 30,
+    "color": "Brown",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 90,
+    "product_selected_qty": 1,
+    "product_image": "Men5.jpeg",
+    "brand": "Wrogn",
+
+    "product_details": [
+      "Cotton lining",
+      "Soft touch wadding",
+      "Handstitched"
+    ]
+  },
+
+  {
+    "productname": "Torn Jeans",
+    "id": "i662y8B2qA9kMtxYLGVL",
+    "price": 2999.0,
+    "discount": 20,
+    "color": "",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "Men6.jpeg",
+    "brand": "Levis",
+
+    "product_details": [
+      "Hand wash",
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Torn Jeans Ankle Fit",
+    "id": "ziu7CBnSnIE45WVqfuAp",
+    "price": 2999.0,
+    "discount": 25,
+    "color": "",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 45,
+    "product_selected_qty": 1,
+    "product_image": "Men7.jpeg",
+    "brand": "U.S Polo Assn",
+
+    "product_details": [
+      "Body lining: 100% polyester",
+      " Sleeve lining: 100% polyester",
+      "Slim Fit",
+      "2 outer pockets"
+    ]
+  },
+
+  {
+    "productname": "Black Leather Jacket",
+    "id": "cU6MpeQDfinCxyNkQAP0",
+    "price": 5999.0,
+    "color": "Black",
+    "category": "men",
+    "discount": 30,
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 25,
+    "product_selected_qty": 1,
+    "product_image": "Men8.jpeg",
+    "brand": "Mufti",
+
+    "product_details": [
+      " Limited edition",
+      "True to size",
+      "Composition: 100% Leather"
+    ]
+  },
+  {
+    "productname": "Casual Short",
+    "id": "xCS1eKOL0U5aExHwWBvp",
+    "price": 599.0,
+    "discount": 9,
+    "color": "White",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "Men9.jpeg",
+    "brand": "Jockey",
+
+    "product_details": [
+      "Regular fit with comfortable elasticated waistline",
+      "Cold Hand Wash",
+      "Composition: 100% Polyester"
+    ]
+  },
+
+  {
+    "productname": "Casual T-Shirt",
+    "id": "Bc3twiMjGk3s9uBAknRk",
+    "price": 999.0,
+    "discount": 15,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 10,
+    "product_selected_qty": 1,
+    "product_image": "women1.jpg",
+    "brand": "Levis",
+
+    "product_details": [
+      "Medium Brim Size ",
+      "One Size Fits Most ",
+      " 65% Cotton 35% Polyester ",
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Sweat Shirt on Collar Shirt",
+    "id": "wcZxUY5tCnZ2xjdxptyv",
+    "price": 500.0,
+    "discount": 4,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "women3.jpg",
+    "brand": "H&M (Hennes and Mauritz)",
+
+    "product_details": [
+      " Available In Dark Wash.",
+      "Button Closure",
+      "Slim Fit",
+      "96% Cotton 3% Polyester 1% Spandex",
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Blue Top and Jeans",
+    "id": "TxJZS59SbUyWpXHHWAyG",
+    "price": 499.0,
+    "discount": 10,
+    "color": "Blue",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "women4.jpg",
+    "brand": "Allen Solly",
+
+    "product_details": [" 100% polyester", "Imported"]
+  },
+  {
+    "productname": "Printed Sarees",
+    "id": "24nC01SAhuq1v0CAfCS1",
+    "price": 669.0,
+    "discount": 6,
+    "color": "Multi Colors",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "women5.jpg",
+    "brand": "Zara",
+
+    "product_details": [
+      "Available in Multiple Colors",
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Brand New Lehanga",
+    "id": "yc67LV4bfHfFtjZ68Dev",
+    "price": 1499,
+    "discount": 50,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 5,
+    "product_selected_qty": 1,
+    "product_image": "women6.jpg",
+    "brand": "Fab India",
+
+    "product_details": [
+      "Imported"
+    ]
+  },
+  {
+    "productname": "Pattu Sarees",
+    "id": "U65p8q2zqsahGWrDRCn2",
+    "price": 4599.0,
+    "discount": 19,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "women7.jpg",
+    "brand": "Zara",
+
+    "product_details": [
+      "Available In Multiple Colors.",
+      "Imported"
+    ]
+  },
+
+  {
+    "productname": "Brand New Gown",
+    "id": "hkF1VzrgK68zB9NIZ0Pv",
+    "price": 699.0,
+    "discount": 26,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 60,
+    "product_selected_qty": 1,
+    "product_image": "women8.jpg",
+    "brand": "BIBA",
+
+    "product_details": ["Imported"]
+  },
+  {
+    "productname": "Ethnic wear",
+    "id": "QU2fod19IXXw25P3KjkA",
+    "price": 4445.0,
+    "discount": 26,
+    "color": "Navy",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 190,
+    "product_selected_qty": 1,
+    "product_image": "women9.jpg",
+    "brand": "Aurelia",
+
+    "product_details": [
+      "Soft touch wadding",
+      "Locally made",
+      "True to size"
+    ]
+  },
+  {
+    "productname": "Tunic Top",
+    "id": "Ve0d9CqDebfA3mfsZyIe",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "women10.jpg",
+    "brand": "W for Woman",
+
+    "product_details": [
+      "Locally made",
+      "  Tiered dress"
+    ]
+  },
+  {
+    "productname": "I phone 11",
+    "id": "var1",
+    "price": 54999.0,
+    "discount": 13,
+    "color": "Black",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec1.jpg",
+    "brand": "Apple",
+
+    "product_details": [
+      "Operating system : iOS",
+      "Screen size : 6.1 inches screen",
+      "Security features : Facial Recognition",
+      "Front camera resolution : 12 MP",
+      "Feature : Smartphone, Wireless Charging, Water Resistant"
+    ]
+  },
+  {
+    "productname": "OnePlus9 5G",
+    "id": "var2",
+    "price": 44444.0,
+    "discount": 13,
+    "color": "Black",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec2.jpg",
+    "brand": "OnePlus",
+
+    "product_details": [
+      "Operating system : OxygenOS based on Android 11",
+      "Screen size : 6.55 inches",
+      "Security features : Facial Recognition",
+      "Front camera resolution : 16 MP",
+      "Feature : Smartphone, OxygenOS based on Android 11"
+    ]
+  },
+  {
+    "productname": "Bosch 8kg",
+    "id": "var3",
+    "price": 25999.0,
+    "discount": 13,
+    "color": "",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec3.jpg",
+    "brand": "Bosch",
+
+    "product_details": [
+      "Power Consumption : 2300 W",
+      "Spin Speed : 1500 RPM",
+      "Capacity : 8 kg",
+      "Type : Fully Automatic Front Load",
+      "Dimensions : 59.8 * 85 * 58.8",
+      "Feature : Tumble Wash, Digital Display"
+    ]
+  },
+  {
+    "productname": "Samsung 8kg",
+    "id": "var4",
+    "price": 21999.0,
+    "discount": 13,
+    "color": "",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec4.jpg",
+    "brand": "Samsung",
+
+    "product_details": [
+      "Power Consumption : 2400 W",
+      "Spin Speed : 1400 RPM",
+      "Capacity : 8 kg",
+      "Type : Fully Automatic Front Load",
+      "Dimensions : 600*850*550 mm",
+      "Feature : Smart Check, Eco Drum Clean, Digital Display"
+    ]
+  },
+  {
+    "productname": "Lenovo S540",
+    "id": "var5",
+    "price": 54999.0,
+    "discount": 13,
+    "color": "Silver",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec5.jpg",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "Processor: 10th Gen Intel Core i5",
+      "OS: Windows 10 Home",
+      "Memory and Storage: 8GB RAM DDR4 (4GB+4GB)| 1TB HDD + 256GB SSD",
+      "Display: 15.6 Full HD (1920x1080) | Anti-Glare"
+    ]
+  },
+  {
+    "productname": "Mac Book Pro13",
+    "id": "var6",
+    "price": 109999.0,
+    "discount": 13,
+    "color": "Silver",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec6.jpg",
+    "brand": "Apple",
+
+    "product_details": [
+      "Processor: 8th Gen Intel Core i5",
+      "OS: macOS",
+      "Memory and Storage: 8GB RAM  | 256GB SSD",
+      "Display: 13.30-inch Full HD (1600x2560)"
+    ]
+  },
+  {
+    "productname": "SamSung Buds ",
+    "id": "var7",
+    "price": 2599.0,
+    "discount": 13,
+    "color": "Red",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec7.jpg",
+    "brand": "Samsung",
+
+    "product_details": [
+      "Connectivity : Bluetooth V5.0",
+      "Sensors : Accelerometer, Gyro, Proximity, Hall, Touch, Grip, VPU",
+      "Earbud Dimension: 27.3 * 16.5 * 14.9 mm",
+      "Case Weight : 42.2 g"
+    ]
+  },
+
+  {
+    "productname": "Apple AirPods ",
+    "id": "var8",
+    "price": 8999.0,
+    "discount": 13,
+    "color": "White",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec8.jpg",
+    "brand": "Apple",
+
+    "product_details": [
+      "Connectivity : Bluetooth V5.0",
+      "Sensors : Dual beamforming microphones, Dual optical sensors, Motion-detecting and Speech-detecting accelerometer",
+      "Earbud Dimension: 16.5 * 18.0 * 40.5 mm",
+      "Case Weight : 38 g"
+    ]
+  },
+
+  {
+    "productname": "Samsung 810L Fridge ",
+    "id": "var9",
+    "price": 199999.0,
+    "discount": 13,
+    "color": "",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec9.jpg",
+    "brand": "Samsunng",
+
+    "product_details": [
+      "Cooling Type : Triple Cooling",
+      "Capacity : 810 L",
+      "Net Dimension : 908 * 1825 * 871 mm",
+      "Features : SmartThings App Connectivity, WiFi embedded, Full HD LCD Display"
+    ]
+  },
+
+  {
+    "productname": "LG 2 Ton AC ",
+    "id": "var10",
+    "price": 34999.0,
+    "discount": 13,
+    "color": "White",
+    "category": "electronics",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "elec10.jpg",
+    "brand": "Samsung",
+
+    "product_details": [
+      "Type : Dual Inverter Split",
+      "Power Consumption : 2090 W",
+      "Capacity : 2 Ton",
+      "Star Rating : 3 Star",
+      "Dimensions : 109cm * 30cm * 21.8cm"
+    ]
+  },
+
+  {
+    "productname": "Kids wear(8Y) ",
+    "id": "var11",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids1.png",
+    "brand": "Indian Terrain",
+
+    "product_details": [
+      "Type : Casual Wear",
+      "Age : 6 to 8 Years"
+    ]
+  },
+
+  {
+    "productname": "Blue Jacket ",
+    "id": "var12",
+    "price": 1999.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids2.png",
+    "brand": "Denim",
+
+    "product_details": [
+      "Type : Brand new Jacket for children",
+      "Age : 5 to 7 Years"
+    ]
+  },
+
+  {
+    "productname": "Frock",
+    "id": "var13",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids3.png",
+    "brand": "Nauti Nati",
+
+    "product_details": [
+      "Type : Cotton Fabric",
+      "Age : 6 to 8 Years, 9 to 11 Years"
+    ]
+  },
+  {
+    "productname": "White Top",
+    "id": "var14",
+    "price": 1799.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids4.png",
+    "brand": "Allen Solly Junior",
+
+    "product_details": [
+      "Type : White top with cotton material",
+      "Age : 6 to 8 Years, 9 to 11 Years"
+    ]
+  },
+
+  {
+    "productname": "Ankle fit",
+    "id": "var15",
+    "price": 799.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids5.png",
+    "brand": "Gini and Jony",
+
+    "product_details": [
+      "Type : White top with cotton material",
+      "Age : 3 to 5 Years, 6 to 8 Years, 9 to 11 Years"
+    ]
+  },
+
+  {
+    "productname": "Casuals",
+    "id": "var16",
+    "price": 1999.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids6.png",
+    "brand": "United Colors of Benetton",
+
+    "product_details": [
+      "Type : Casual Wear for children ",
+      "Age : 3 to 5 Years, 7 to 9 Years, 10 to 12 Years"
+    ]
+  },
+
+  {
+    "productname":  "Gray T-shirt ",
+    "id": "var17",
+    "price": 1999.0,
+    "discount": 13,
+    "color": "",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids7.png",
+    "brand": "612 League",
+
+    "product_details": [
+      "Type : Sweat Shirt Over collar shirt ",
+      "Age : 6 Months to 2 Years, 3 to 5 Years, 7 to 9 Years, 10 to 12 Years"
+    ]
+  },
+
+  {
+    "productname":  "Sneakers",
+    "id": "var18",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "White",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids8.png",
+    "brand": "RedTape",
+
+    "product_details": [
+      "Type : White Sneakers with Lace ",
+      "Age : 6 Months to 2 Years, 3 to 5 Years, 10 to 12 Years"
+    ]
+  },
+
+  {
+    "productname":  "Chudidar",
+    "id": "var19",
+    "price": 799.0,
+    "discount": 13,
+    "color": "Black",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids9.jpeg",
+    "brand": "Baby hug",
+
+    "product_details": [
+      "Type : Black Chudidar with Fancy work",
+      "Age : 3 to 5 Years, 10 to 12 Years"
+    ]
+  },
+
+  {
+    "productname":  "Fancy Shirt",
+    "id": "var20",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "Black",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Kids10.jpeg",
+    "brand": "Baby hug",
+
+    "product_details": [
+      "Type : Fancy Shirt and T-shirt combination",
+      "Age : 3 to 5 Years, 7 to 9 Years"
+    ]
+  },
+
+  {
+    "productname":  "Vegetbles",
+    "id": "var21",
+    "price": 249.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce1.jpg",
+
+    "product_details": [
+      "Combo pack of Vegetables, Milk, Bread",
+      "In Basket : Bringals, Tomatos, Potatos, Onions, 1L Milk, 2 Bread packets",
+      "Vegetables Quantity : 3kg each"
+    ]
+  },
+  {
+    "productname":  "Vegetbles",
+    "id": "var22",
+    "price": 199.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce2.jpg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Combo pack of Vegetables",
+      "In Basket : Tomatos, Potatos, Onions, Cucumber, Ginger",
+      "Vegetables Quantity : 3kg each"
+    ]
+  },
+  {
+    "productname":  "Vegetbles",
+    "id": "var23",
+    "price": 229.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce3.jpg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Combo pack of Vegetables",
+      "In Basket : Brinjals, Beetroot, Beans, Tomatos, Potatos, Onions, Cucumber, Ginger",
+      "Vegetables Quantity : 2kg each"
+    ]
+  },
+  {
+    "productname":  "Sprite 1.25L ",
+    "id": "var24",
+    "price": 45.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce4.jpg",
+    "brand": "Sprite",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "25% discount on the product's MRP"
+    ]
+  },
+
+  {
+    "productname":  "Pepsi 1.25L 6 pack ",
+    "id": "var25",
+    "price": 249.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce5.jpg",
+    "brand": "Pepsi",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Rs.50 discount compared to product's MRP"
+    ]
+  },
+
+  {
+    "productname":  "Thums UP 1.25L",
+    "id": "var26",
+    "price": 45.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce6.jpg",
+    "brand": "Coca-Cola",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "25% discount on the product's MRP"
+    ]
+  },
+  {
+    "productname":  "Kissan Jam",
+    "id": "var27",
+    "price": 29.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce7.jpg",
+    "brand": "Kissan",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Rs.25 discount on the product's MRP"
+    ]
+  },
+  {
+    "productname":  "Britannia Bread",
+    "id": "var28",
+    "price": 35.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce8.jpg",
+    "brand": "Britannia",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Rs.20 discount on the product's MRP",
+      "100% Whole Wheat",
+      "Best before 2 weeks from manufacturing"
+    ]
+  },
+
+  {
+    "productname":  " HERSHEY'S Chocolate",
+    "id": "var29",
+    "price": 59.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce9.jpg",
+    "brand": "HERSHEY'S",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Rs.30 discount on the product's MRP",
+      "100% Milk Chocolate",
+      "Best before 2 weeks from manufacturing"
+    ]
+  },
+  {
+    "productname":  "Chocos",
+    "id": "var30",
+    "price": 69.0,
+    "discount": 13,
+    "category": "groceries",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "groce10.jpg",
+    "brand": "Kellogg's",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Rs.40 discount on the product's MRP",
+      "100% Whole Grain",
+      "Best before 3 months from manufacturing"
+    ]
+  },
+
+  {
+    "productname":  "Baking Set",
+    "id": "var31",
+    "price": 899.0,
+    "discount": 13,
+    "color": "Multicolor",
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h1.jpeg",
+    "brand": "Vithani",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Model Number: All in one cake combo",
+      "Material: Plastic, Steel, Aluminium, Rubber"
+    ]
+  },
+
+  {
+    "productname":  "Clock",
+    "id": "var32",
+    "price": 699.0,
+    "discount": 13,
+    "color": "Multicolor",
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h2.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Size: 32 cm x 32 cm",
+      "Frame Material: Glass",                   
+      "Type: Analog"
+    ]
+  },
+
+  {
+    "productname":  "Carpet",
+    "id": "var33",
+    "price": 1499.0,
+    "discount": 13,
+    "color": "Multicolor",
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h3.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Material: Cotton",
+      "Type: Carpet",
+      "Size: 180 cm x 138 cm",
+      "Shape: Rectangle"
+    ]
+  },
+
+  {
+    "productname":  "Chandelier",
+    "id": "var34",
+    "price": 1999.0,
+    "discount": 13,
+    "color": "Multicolor",
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h4.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Material: Stainless Steel, Crystal",
+      "Cord Length: 18 cm",
+      "Light Used: Solar",
+      "4 Bulbs"
+    ]
+  },
+
+  {
+    "productname":  "Teak Wood Table",
+    "id": "var35",
+    "price": 4999.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h5.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Material: Rosewood (Sheesham)",
+      "Configuration: Straight",
+      "Height x Width: 75 cm x 89 cm "
+    ]
+  },
+
+  {
+    "productname":  "Copper Bottle",
+    "id": "var36",
+    "price": 649.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h6.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Material: Copper",
+      "Type: Bottle",
+      "Capacity: 500 ml "
+    ]
+  },
+
+  {
+    "productname":  "Curtain",
+    "id": "var37",
+    "price": 449.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h7.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Long Door (120 cm x 240 cm)",
+      "Material: Jacquard",
+      "Transparency: Blackout",
+      "Closure Type: Ring Rod "
+    ]
+  },
+
+  {
+    "productname":  "Dinner Set",
+    "id": "var38",
+    "price": 599.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h8.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Material: Plastic",
+      "Sales Package: Full Plates -06, Quarter Plates - 06, Curry Bowl-12, serving Bowl-2, serving Bowl lids-2, table Spoons -6",
+      "Diameter: 9.5 inch, 9.5 inch, 6 inch "
+    ]
+  },
+
+  {
+    "productname":  "Dinning Table",
+    "id": "var39",
+    "price": 22999.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h9.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Table Top Material: Solid Wood",
+      "Chair Frame: Solid Wood",
+      "Table (W x H x D): 150 mm x 76 mm x 88 mm (5 in x 2 in x 3 in)",
+      "Seating Capacity: 6 Seater "
+    ]
+  },
+
+  {
+    "productname":  "Lord Krishna's Idol",
+    "id": "var40",
+    "price": 149.0,
+    "discount": 13,
+    "category": "appliances",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "h10.jpeg",
+    "size": [""],
+    "selected_size": "",
+    "product_details": [
+      "Type: Krishna Religious Idol",
+      "Material: Aluminium",
+      "Theme: Ethnic",
+      "Suitable For: Table",
+      "Dimensions: 9 cm x 10.5 cm x 5 cm",
+      "Weight: 160 g"
+    ]
+  }
+
+  
+  
+]

@@ -1,0 +1,50 @@
+@import "colors";
+
+.footer {
+  background: url(../assets/images/fb.jpeg)
+    no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: auto;
+}
+.footer_container {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: auto;
+  color: #ffffff;
+}
+
+.footer_content {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 0;
+
+  p {
+    font-size: 1.5rem;
+  }
+}
+
+.footer_copyright {
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 15px;
+  padding-top: 30px;
+  font-size: 1.5rem;
+  hr {
+    width: 100%;
+    margin: 0 auto;
+    border-width: 3px;
+    border-color: #928b8c;
+  }
+}
+
+.footer-icons {
+  color: $themeColor;
+  margin-right: 1rem;
+}
+
+.footer_payment ul li {
+  text-decoration: none;
+  display: inline;
+
+  padding: 0 5px;
+}

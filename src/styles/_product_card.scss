@@ -1,0 +1,33 @@
+.card-product {
+  box-shadow: 0 50px 30px 0 rgba(0, 0, 0, 0.2);
+  height: 400px;
+  width: 100%;
+  margin-right: 20px;
+
+  margin-bottom: 40px;
+
+  &:hover {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+  }
+}
+.card-product img {
+  width: 79%;
+  height: 71%;
+  justify-content: center;
+}
+// .card-product-extra-info {
+//   /**padding: 0 16px;*/
+//   text-align: center;
+//   background-color: $whiteSmoke;
+//   /*
+//     padding-top: 16px;
+//     padding-bottom: 16px;*/
+//   padding: 16px 0;
+//   h4 {
+//     color: $blackColor;
+//   }
+// }
+
+.add-to-cart-icon {
+  cursor: pointer;
+}
