@@ -2,7 +2,6 @@ import React,{useContext} from "react";
 
 import {GlobalCartContext} from '../../context/CartContext';
 import '../../styles/Cartsummary.scss';
-import '../../styles/Checkout.Styles.scss';
 
 
 export default function CartSummary(props) {

@@ -1,3 +1,4 @@
+
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import { GlobalCartContext } from "../../context/CartContext";
@@ -6,7 +7,7 @@ import {  useToasts } from 'react-toast-notifications';
 export default function CartItem(props) {
   const { addToast } = useToasts();
   let product_name = props.data.productname.replace(/ /g, "_");
-  const { removeItemFromCart } = useContext(
+  const { removeItemFromCart, saveItemforLater } = useContext(
     GlobalCartContext
   );
 
@@ -34,6 +35,7 @@ export default function CartItem(props) {
 
       product_details: data.product_details,
     };
+    saveItemforLater(savedItem);
     removeItemFromCart(data.cartItemId);
     addToast(props.data.productname+" has been saved for later shopping", { appearance: 'success', autoDismiss: true, })
    
@@ -74,7 +76,23 @@ export default function CartItem(props) {
             >
               Remove
             </button>
-           
+            {/* <button
+              className="btn-cart-item-action-save-edit"
+              onClick={() => saveForLater(props.data)}
+            >
+              Save for later
+            </button>
+
+            <Link
+              to={
+                `/catalog/item/${props.data.id}/${product_name}/edit`
+                  
+
+                
+              }
+            >
+              <button className="btn-cart-item-action-save-edit">Edit</button>
+            </Link> */}
           </div>
         </td>
         <td className="row-cart-item-price-container">

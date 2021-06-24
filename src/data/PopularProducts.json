@@ -123,5 +123,30 @@
       " 2 inner pockets",
       "  Zip detail"
     ]
+  },
+
+  {
+    "productname": "Zip-up Suede Jacket",
+    "id": "ziu7CBnSnIE45WVqfuAp",
+    "price": 3200.0,
+    "discount": 25,
+    "color": "TAUPE",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 45,
+    "product_selected_qty": 1,
+    "product_image": "Womens.jpeg",
+    "brand": "Gucci",
+
+    "product_details": [
+      "Shell: 100% sheep leather",
+      "Body lining: 100% polyester",
+      " Sleeve lining: 100% polyester",
+      "Slim Fit",
+      "2 outer pockets",
+      " 2 inner pockets",
+      "  Zip detail"
+    ]
   }
 ]

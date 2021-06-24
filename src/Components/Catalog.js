@@ -7,7 +7,6 @@ import TopBanner from "./Navigation/TopBanner";
 
 import data from "../data/Allproducts.json";
 import ProductDetails from "./ProductDetails";
-import UpdateCartItem from "./UpdatCartItem";
 
 import {
   
@@ -32,7 +31,7 @@ export default function Catalog(props) {
       <HeroImage />
       
       <ProductDetails product={selectedProduct} key={selectedProduct.id} action={action}/>
-      <UpdateCartItem product={selectedProduct} key={selectedProduct.id} action={action}/>
+      {/* <UpdateCartItem product={selectedProduct} key={selectedProduct.id} action={action}/> */}
 
 
       <Footer />

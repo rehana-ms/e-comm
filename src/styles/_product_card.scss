@@ -15,18 +15,18 @@
   height: 71%;
   justify-content: center;
 }
-// .card-product-extra-info {
-//   /**padding: 0 16px;*/
-//   text-align: center;
-//   background-color: $whiteSmoke;
-//   /*
-//     padding-top: 16px;
-//     padding-bottom: 16px;*/
-//   padding: 16px 0;
-//   h4 {
-//     color: $blackColor;
-//   }
-// }
+.card-product-extra-info {
+  /**padding: 0 16px;*/
+  text-align: center;
+  background-color: $whiteSmoke;
+  /*
+    padding-top: 16px;
+    padding-bottom: 16px;*/
+  padding: 16px 0;
+  h4 {
+    color: $blackColor;
+  }
+}
 
 .add-to-cart-icon {
   cursor: pointer;

@@ -2,7 +2,6 @@ import React, { Suspense, lazy, Component } from "react";
 import { Link } from "react-router-dom";
 import "./styles/App.scss";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Header } from './Components/Navigation/Header';
 // import Layout from './Layout'
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import PropTypes from 'prop-types';
@@ -53,7 +52,6 @@ class App extends Component {
   return (
 
     <div>
-             {/* <Header /> */}
 
     <GlobalCartContextProvider>
       <ToastProvider>
